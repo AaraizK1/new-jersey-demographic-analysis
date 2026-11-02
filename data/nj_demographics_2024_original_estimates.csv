@@ -1,0 +1,16 @@
+category,group,percentage
+Age,0–15,17.91
+Age,15–29,18.93
+Age,30–64,46.6
+Age,65–84,14.39
+Age,85+,2.17
+Gender,Male,49.26
+Gender,Female,50.74
+Education,High school graduate,26.06
+Education,Bachelor's degree,25.46
+Education,Graduate degree,16.79
+Education,Associate's degree,66.9
+Career,"STEM, business, management and health",40.0
+Career,Service occupations,25.46
+Career,"Construction, labor and agriculture",16.79
+Career,Production and transportation,11.0
